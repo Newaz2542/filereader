@@ -3,11 +3,11 @@
 Stopwatch class that computes elapsed time between a start and stop time, then read the Alice-in-Wonderland.txt by 
 using String,StringBuilder, and BufferedReader.Count time and print them to check time.
 Made by Vichakorn Yotboonrueang
-Task									Time
----------------------------------------|------------------------
-Read 52539 chars by String			   |1.040170 s
-Read 52539 chars StringBuilder         |0.004548 s
-Read 52539 chars by BufferedReader     |0.917914 s
+Task									| Time
+----------------------------------------|-----------
+Read 52539 chars by String				|1.040170 s
+Read 52539 chars StringBuilder			|0.004548 s
+Read 52539 chars by BufferedReader		|0.917914 s
 
 
 Example Sentence 		"Java is 
